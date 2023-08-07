@@ -47,7 +47,7 @@ Remember, the goal of this project is to showcase your skills in data analysis, 
 
 ### Guidelines to follow
 
-- **Version control:**commit early and often, as you can always roll back to a previous version if needed. Don't be afraid of making mistakes.
+- **Version control**: commit early and often, as you can always roll back to a previous version if needed. Don't be afraid of making mistakes.
 - **Organizing code**:to improve the organization and readability of your code, create separate .py files for related functions, and use multiple Jupyter notebooks if necessary. Use a "main cleaning function" in *cleaning.py* (or similar) that calls all the smaller cleaning functions in a specific order to perform the entire cleaning process at once.
 - **Agile methodology**:participate in Agile ceremonies such as daily standups and a final retrospective, and optionally use a Kanban board to stay organized throughout the project.
 
@@ -63,7 +63,7 @@ You must submit the following deliverables in order for the project to be deemed
   - Additional needed files for your work
   - A **README with the completed project documentation**.
   - The URL of the **slides for your project presentation**.
-- **Presentation:**when presenting your work, there are many important factors to consider, such as the content of your presentation and the way you deliver it. The following link offers valuable advice on how to make a strong presentation: [Presentations.](https://github.com/data-bootcamp-v4/project-briefs-and-rubric/blob/main/DA%20Presentations.pdf)
+- **Presentation**:when presenting your work, there are many important factors to consider, such as the content of your presentation and the way you deliver it. The following link offers valuable advice on how to make a strong presentation: [Presentations.](https://github.com/data-bootcamp-v4/project-briefs-and-rubric/blob/main/DA%20Presentations.pdf)
 - Paste your own repo's link in the Student Portal Project Activity
 
 ### Rubrics
