@@ -4,4 +4,4 @@
 # Code: Initial plan was to incorporate use of APIs, but the goal proved too unweildy for a short project timeframe. However, webscraping has been utilized to pull data regarding the largest air traffic hubs in the United States. Code also utilizes machine learning to predict how the trajectory of prices might continue.
 # Data: Pulled from the US Bureau of Transportation Statistics, the Energy Information Administration, and the Federal Reserve Bank of St. Louis, as well as webscraping data from Wikipedia 
 # Features: Data visualization via Tableau in order to more graphically depict conclusions drawn from data analysis.
-# Tableau Public Link: 
+# Tableau Public Link: https://public.tableau.com/app/profile/harrison.teeter/viz/IronhackFinalProject_17025296051810/FlightPrices?publish=yes
